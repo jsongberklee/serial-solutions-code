@@ -2,4 +2,15 @@ This is a collection of customizations made to our Serial Solutions producst.
 
 Yamil
 
-Folk to Jaesung's Repo on 20140708
+• Folk to Jaesung's Repo on 20140708
+
+• Minified files are added, use minified code to apply update to the live site.
+  After update the html code, you can create minified versions then update to the serialsolution site.
+  Minifying service site: http://www.willpeavy.com/minifier/
+
+• Serialsolution admin login at: 
+  http://clientcenter.serialssolutions.com/CC/Login/Default.aspx?ReturnUrl=%2fcc%2fDefault.aspx
+  
+
+
+
